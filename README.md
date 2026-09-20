@@ -56,5 +56,3 @@ Find the `config.yaml` (or `config.toml`) file and open it.
 * Change `max_party_size` as needed.
 
 **Important Note:** NEVER delete the `.bsac2` or `.bsuuid` files, or your server will lose its identity on the master server.
-
-Need help? Contact on Telegram:(https://t.me/xo3pe)
