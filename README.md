@@ -1,4 +1,4 @@
-# 🚀 BombSquad FFA Server
+# BombSquad FFA Server
 
 BombSquad server
 
@@ -6,7 +6,7 @@ A public Python-based BombSquad Server Manager with pre-installed mods and mini-
 
 ---
 
-### 📂 Repository Architecture
+### Repository Architecture
 Here is the breakdown of the files:
 
 * **`bombsquad_server`**: The core manager script that boots and monitors the server.
@@ -15,7 +15,7 @@ Here is the breakdown of the files:
 
 ---
 
-### 🛠️ How to Deploy
+### How to Deploy
 
 **1. Fetch Game Assets (Required):**
 You must download and extract the official BombSquad engine files into this folder:
@@ -50,7 +50,7 @@ chmod +x bombsquad_server
 
 ---
 
-### ⚙️ Configuration
+### Configuration
 Find the `config.yaml` (or `config.toml`) file and open it.
 * Change `party_name` to your desired name (Default: **FFA**).
 * Change `max_party_size` as needed.
